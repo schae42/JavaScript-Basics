@@ -56,6 +56,10 @@ body {
     color: #bdd6ec;
 }
 
+p {
+    font-size: 0.73em;
+}
+
 span {
     color: #7481e2;
 }
